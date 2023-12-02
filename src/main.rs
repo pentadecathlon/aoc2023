@@ -1,3 +1,4 @@
+#![feature(portable_simd)]
 mod day1;
 
 fn timed(f: fn()) {
